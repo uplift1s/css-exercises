@@ -1,0 +1,16 @@
+/* styles.css */
+
+button
+.right-button {
+    font-family: Helvetica, Times New Roman, sans-serif ;
+    font-size: 28px;
+  }
+
+.left-button {
+    background-color: black;
+    color: white;
+ }
+
+.right-button {
+    background-color: burlywood;
+ }
